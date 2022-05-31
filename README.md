@@ -1,2 +1,3 @@
 # Air-Jordan-1-Landing-Page-
-hello guys this landing page with html css java script isn't ready 100% but its responsive next time i will add js to switch photo and toggle menu 
+### hello guys this landing page with html css java script isn't ready 100% but its responsive next time i will add js to switch photo and toggle menu 
+### Transfered a mockup into a code HTML CSS 
